@@ -1,0 +1,1 @@
+# Ansible playbook for installing and configuring Grafana Server
